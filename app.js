@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get("/",(req,res)=>{
-    res.send("AKSHAY")
+    res.send("AKSHAY how are you")
 })
 
 
