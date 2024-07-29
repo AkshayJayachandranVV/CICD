@@ -3,7 +3,7 @@ const app = express()
 
 
 app.get("/",(req,res)=>{
-    res.send("Brototype checking ")
+    res.send("Brototype review testing ")
 })
 
 
